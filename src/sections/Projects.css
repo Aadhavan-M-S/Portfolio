@@ -1,0 +1,14 @@
+.projects {
+  background: var(--color-surface);
+}
+
+.projects-grid {
+  display: grid;
+  gap: var(--space-8);
+}
+
+@media (max-width: 768px) {
+  .projects-grid {
+    gap: var(--space-6);
+  }
+}
