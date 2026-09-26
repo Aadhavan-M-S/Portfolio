@@ -8,7 +8,6 @@ export const ProjectCard = ({ project }) => {
     <article className="project-card">
       <div className="project-card-header">
         <div className="project-card-meta">
-          <span className="project-year">{project.year}</span>
           {project.featured && <span className="project-badge">Featured</span>}
         </div>
         

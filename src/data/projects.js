@@ -14,8 +14,7 @@ export const projects = [
     ],
     tech: ['React', 'FastAPI', 'Python', 'Ollama', 'FAISS', 'sentence-transformers', 'WebSocket', 'Supabase'],
     github: 'https://github.com/Aadhavan-M-S/DemoPilot',
-    featured: true,
-    year: 2024
+    featured: true
   },
   {
     id: 'brandai',
@@ -32,8 +31,7 @@ export const projects = [
     ],
     tech: ['React', 'FastAPI', 'Python', 'Ollama', 'FAISS', 'RAG', 'SQLite', 'Pydantic'],
     github: 'https://github.com/Aadhavan-M-S/BrandAI-Studio',
-    featured: true,
-    year: 2024
+    featured: true
   },
   {
     id: 'ecommerce-rag',
@@ -50,8 +48,7 @@ export const projects = [
     ],
     tech: ['Python', 'LangGraph', 'Ollama', 'FAISS', 'sentence-transformers', 'Pydantic', 'Streamlit'],
     github: 'https://github.com/Aadhavan-M-S/E-Commerce-Support-RAG',
-    featured: true,
-    year: 2024
+    featured: true
   },
   {
     id: 'spectra',
@@ -68,7 +65,6 @@ export const projects = [
     ],
     tech: ['React', 'FastAPI', 'Python', 'Ollama', 'FAISS', 'spaCy', 'FLAIR', 'DeBERTa', 'Playwright'],
     github: 'https://github.com/Aadhavan-M-S/Market-research-AI',
-    featured: true,
-    year: 2024
+    featured: true
   }
 ];
