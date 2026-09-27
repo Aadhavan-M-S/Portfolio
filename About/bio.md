@@ -26,7 +26,6 @@ My work covers building AI-powered applications, RAG systems, AI agents, automat
 * Large Language Models
 * Prompt Engineering
 * LLM APIs
-* Function Calling & Tool Use
 * AI Agents
 * Multi-Agent Systems
 * Agentic Workflows
@@ -118,13 +117,11 @@ My work covers building AI-powered applications, RAG systems, AI agents, automat
 
 * Ollama
 * Llama 3
-* Google Gemini
 * Groq
 * HuggingFace
 * Prompt Engineering
 * RAG
 * Multi-Agent Systems
-* LangChain
 
 ### RAG & Search
 
@@ -150,7 +147,6 @@ My work covers building AI-powered applications, RAG systems, AI agents, automat
 * Node.js
 * Express
 * FastAPI
-* Vite
 * Tailwind CSS
 * Framer Motion
 
